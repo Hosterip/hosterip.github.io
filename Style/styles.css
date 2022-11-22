@@ -1,0 +1,86 @@
+.button:hover {
+  top: 2px;
+  box-shadow: 0px 3px 0px rgb(193, 248, 227);
+  background-color: rgb(161, 233, 250);
+}
+
+ol {
+  margin-top: 15%;
+  list-style: none;
+}
+
+li a {
+  margin-bottom: 25px;
+  display: inline-block;
+  place-items: center;
+  text-decoration: none;
+  line-height: 60px;
+  padding-top: 0px 30px;
+  width: 300px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 18px;
+  border-radius: 10px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  position: static;
+}
+
+.button1 {
+  background-color: rgb(217, 254, 186);
+  box-shadow: 0px, 5px, 0px rgb(187, 200, 176);
+}
+
+.button2 {
+  background-color: rgb(229, 186, 254);
+  box-shadow: 0px, 5px, 0px rgb(194, 176, 200);
+}
+
+.button3 {
+  background-color: rgb(186, 221, 254);
+  box-shadow: 0px, 5px, 0px rgb(176, 198, 200);
+}
+
+.button4 {
+  background-color: rgb(254, 217, 186);
+  box-shadow: 0px, 5px, 0px rgb(202, 200, 178);
+}
+
+.button5 {
+  background-color: rgb(254, 186, 197);
+  box-shadow: 0px, 5px, 0px rgb(200, 176, 178);
+}
+
+/* Hover */
+
+.button1:hover {
+  background-color: rgb(254, 186, 197);
+  box-shadow: 0px, 5px, 0px rgb(200, 176, 178);
+  width: 500px;
+}
+
+.button2:hover {
+  background-color: rgb(254, 217, 186);
+  box-shadow: 0px, 5px, 0px rgb(202, 200, 178);
+  width: 500px;
+}
+
+.button3:hover {
+  background-color: rgb(186, 254, 239);
+  box-shadow: 0px, 5px, 0px rgb(176, 200, 195);
+  width: 500px;
+}
+
+.button4:hover {
+  background-color: rgb(229, 186, 254);
+  box-shadow: 0px, 5px, 0px rgb(194, 176, 200);
+  width: 500px;
+}
+
+.button5:hover {
+  background-color: rgb(217, 254, 186);
+  box-shadow: 0px, 5px, 0px rgb(187, 200, 176);
+  width: 500px;
+}
+
+/* end of hovers */
